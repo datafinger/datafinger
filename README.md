@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @datafinger
-- 👀 I’m interested in python programming language
-- 🌱 I’m currently learning data mining, machine learning and AWS cloud
+- 👀 I’m interested in Python Programming Language, R, Power BI, Excel
+- 🌱 I’m currently working on Project tasks on Data Mining and Cleaning, Machine learning models for classification and       
+     clustering, Sentiment Analysis, Association Rules, Database Systems Design and implementation with Sql.
 - 💞️ I’m looking to collaborate on Sqlplus, SAS VIYA Data visualization
 - 📫 How to reach me is with chienyeze.akushie@gmail.com
 - 😄 Pronouns: ...
