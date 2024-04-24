@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @datafinger
+- 👋 Hi, I’m @MCAkushie
 - 👀 I’m interested in Python Programming Language, R, Power BI, Excel
 - 🌱 I’m currently working on Project tasks on Data Mining and Cleaning, Machine learning models for classification and       
      clustering, Sentiment Analysis, Association Rules, Database Systems Design and implementation with Sql.
